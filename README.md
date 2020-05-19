@@ -10,7 +10,7 @@ In this project, i have build a model that detects emotions of the characters in
 
 I have extract frames from a video clip provided and classify the primary character’s emotion into one of the five classes: angry, happy, sad, surprised, or Unknown.
 
-# Dataset
+### Dataset
 
 The dataset consists of two parameters—‘Frame_ID’ that indicates the frame of the video and ‘Emotion’ that categorizes the emotion of the primary character into different labels: angry, happy, sad, surprised, or Unknown.
 
